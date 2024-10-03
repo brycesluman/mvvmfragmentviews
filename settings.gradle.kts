@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "mvvmfragmentviews"
 include(":app")
- 
+include(":data")
